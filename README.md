@@ -37,7 +37,7 @@ RAPHAEL MORAES MENDES                     |BACKEND
 WESLEY FERNANDES DE CAMPOS RABELO DA SILVA|FRONTEND E BACKEND
 
 ********LINK DO PROJETO GYMHELP********
-https://github.com/Grupo36/Projeto_GymHelp
+[https://github.com/Grupo36/Projeto_GymHelp](https://github.com/Grupo36/projeto_GmyHelp)
 
 
 ********LINK DA LANDPAGE GYMHELP********
