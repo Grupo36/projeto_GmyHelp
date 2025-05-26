@@ -22,29 +22,19 @@ NIVEIS DE TREINO E ACESSO AO CONTROLE DE TREINOS CONCLUIDOS.
 
 COMPONENTE                                |PAPEL E RESPONSABILIDADE
 
-__________________________________________|______________________________________________________
-
 ADRIELLE DE SOUZA SANTOS                  |IDEALIZACAO FUNCIONAL, LANDINGPAGE, MODELAGEM DE DADOS
 
-__________________________________________|______________________________________________________
 
 ANDERSON RAFAEL NEVES MACIEL              |MODELAGEM DE DADOS, DOCUMENTACAO
 
-__________________________________________|______________________________________________________
 
 CRISTIANO BARBOSA DE ARAUJO               |BACKEND
-__________________________________________|______________________________________________________
 
 MARIA EDUARDA SANTOS DE SOUSA             |LANDINGPAGE E FRONTEND 
-__________________________________________|______________________________________________________
 
 RAPHAEL MORAES MENDES                     |BACKEND
-__________________________________________|______________________________________________________
 
 WESLEY FERNANDES DE CAMPOS RABELO DA SILVA|FRONTEND E BACKEND
-__________________________________________|_____________________________________________________
-
-
 
 ********LINK DO PROJETO GYMHELP********
 https://github.com/Grupo36/Projeto_GymHelp
