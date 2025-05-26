@@ -1,0 +1,42 @@
+contas email 
+user: grupo36senacead@gmail.com
+senha: senacead2025
+
+arquitetura de pastas 
+seu-projeto-gmyHelp/
+├── src_gh/
+│   ├── main_gh/
+│   │   ├── BACKEND java_gh/
+│   │   │       ├── model_gh/
+│   │   │       │	└──sql_gh
+│   │   │       ├── view_gh/
+│   │   │       │	└── controller_gh/
+│   │   │       └── util_gh/	
+│   │   └── FRONTEND resources/
+│   │       ├── application_gh/
+│   │       │	└──android_gh
+│   │       │	└──assets_gh
+│   │       │	└──ios_gh
+│   │       │	└──library_gh
+│   │       │	└──model_gh
+│   │       │	└──test_gh
+│   │       │	└──web_gh
+│   │       ├── static_gh/images_gh
+│   │       └── templates_gh
+│   │       |   └── templates_gh/landingpage_gh
+
+Entrega no BlackBoard
+Documentação
+Modelo de Dados  
+ 
+Contendo:
+Link da LandingPage (URL da página principal)
+Link do Projeto (GIT em arquitetura MVC)
+com arquivo read.me(modo quadro, componente, papeis e responsabilidades)
+*composição da equipe
+*descrição do projeto
+*descrição da contribuição dos membros da equipe
+*link do projeto 
+* ladingPage(repositórios separados)
+Link do vídeo de apresentação 
+
